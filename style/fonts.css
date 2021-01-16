@@ -1,0 +1,13 @@
+@import url(//fonts.googleapis.com/css?family=Poppins);
+@import url(//fonts.googleapis.com/css?family=Raleway);
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+@import url(//fonts.googleapis.com/css?family=Zilla+Slab);
+@import url(//fonts.googleapis.com/css?family=Alegreya+Sans);
+@import url(//fonts.googleapis.com/css2?family=Bungee);
+@import url(//fonts.googleapis.com/css2?family=Noto+Sans+JP);
+
+:root {
+  --main-font: 'Noto Sans JP', sans-serif;
+  --second-font: 'Poppins', sans-serif;
+  --third-font: 'Bungee', sans-serif;
+}
